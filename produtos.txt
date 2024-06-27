@@ -1,0 +1,3 @@
+2;Jersey INSANO;120.0;5
+3;Moletom INSANO;130.0;15
+4;Caneca 1 Ano da Raposa;55.0;30
